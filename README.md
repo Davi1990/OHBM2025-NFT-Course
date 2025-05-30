@@ -1,48 +1,31 @@
-# BrainModes 2025 Conference Website Repo
+# OHBM 2025 Neural Field Theory Course Website Repo
 
-Welcome friend.
+Welcome.
 
-This is the website source for the BrainModes 2025 conference
+This is the source code for the OHBM 2025 Neural Field Theory educational course website.
 
-The conference website can be viewed [here](https://griffithslab.github.io/BrainModes2025).
+The website is live here: [https://davi1990.github.io/OHBM2025-NFT-Course](https://davi1990.github.io/OHBM2025-NFT-Course)
 
-## For webdevs:
+## For web developers:
 
 ### Summary
 
-The website is written in Hugo and deployed with CI on gh-pages
+The website is built with **Hugo** and deployed automatically on the **gh-pages** branch via GitHub Pages.
 
-The site will re-build upon each new commit to this repo. 
+The site rebuilds on every new commit pushed to this repository.
 
-To see changes, wait 20 secs or so, and then refresh the page. 
+To see your changes online, wait about 20 seconds after pushing, then refresh the page.
 
-The github text editor should be sufficient for minor changes. 
+Minor edits can be made directly through the GitHub web editor, but for larger changes, working locally is recommended.
 
-In general however, best to work on a local clone. 
+### Using GitHub Codespaces
 
-Github codespaces works very well for this. 
+- Fork this repository.  
+- Create a Codespace on your fork.  
+- Create a new branch for your edits.  
+- To build and preview locally inside the Codespace, run:
 
-### Github Codespaces 
-
-- Fork this repo
-- Create a codespace on it
-- Make a git branch for current edits
-- To test review the build after making some changes:
   ```bash
   hugo --minify
   cd public
-  python -m http.server
-  ```
-- when you're satisfied, commit and pull request on your branch
-
-
-
-### Structure: 
-
-- Landing page and title are specified in config.toml
-
-- Main pages are specified in 'content' folder
-
-- Text is mostly written in markdown
-
-
+  python3 -m http.server 1313
