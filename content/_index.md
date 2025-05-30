@@ -1,13 +1,12 @@
 ---
-title: "BrainModes 2025"
+title: "OHBM 2025: Neural Field Theory Course"
 title_lines:
-  - "BrainModes 2025"
-  -   
-  - "8-10 October"
-  - "Toronto, Canada"
-description: |  
-  ***An international meeting on theoretical neuroscience and macro-scale brain organization.*** 
-    
-  **[Registration & Abstract Submission Open!](https//griffithslab.github.io/BrainModes2025)**  
-   
+  - "OHBM 2025"
+  - "Educational Course"
+  - "June 24, 2025"
+  - "Brisbane Convention and Exhibition Centre, Australia"
+description: |
+  ***A hands-on course on Neural Field Theory and brain network modelling at OHBM 2025.***
+
+  **[Course Details & Materials Here](https://davi1990.github.io/OHBM2025-NFT-Course)**
 ---
