@@ -1,36 +1,36 @@
-baseurl = "https://griffithslab.github.io/BrainModes2025"
-title = "BrainModes 2025"
+baseurl = "https://davi1990.github.io/OHBM2025-NFT-Course"
+title = "OHBM 2025 - Neural Field Theory Course"
 theme = "dimension"
-languageCode = "en-us"
+languagecode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-disableKinds=["RSS"]
+disableKinds = ["RSS"]
 
 [params]
-  #logo = "fa-laptop"
+#logo = "fa-laptop"
+logo = "fa-brain"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
+medium = "twitter"
+icon = "twitter"
+link = "https://twitter.com/DaveMomi"
 
 [[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
+medium = "github"
+icon = "github"
+link = "https://github.com/Davi1990"
 
 [[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
+medium = "website"
+icon = "globe"
+link = "https://davi1990.github.io/"
 
 [[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
+medium = "email"
+icon = "envelope"
+link = "mailto:dmomi@stanford.edu"
 
 [languages]
 [languages.en]
 languageName = "English"
 weight = 1
-
