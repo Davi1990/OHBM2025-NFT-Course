@@ -26,7 +26,7 @@ Dr. Griffiths will provide a largely non-technical survey of the key conceptual 
 *University of Newcastle*  
 **Talk:** *Neural Field Theory: Mathematical Foundations and Cortical Rhythms*
 
-{{< figure class="image speaker" src="static/images/michael_breakspear.jpg" alt="Michael Breakspear" >}}
+{{< figure class="image speaker" src="images/michael_breakspear.jpg" alt="Michael Breakspear" >}}
 
 Dr. Breakspear will trace the formal derivation of "classic NFT" from the physiological and anatomical properties of the brain, including synaptic filtering, somatic summation, nonlinear gain, and signal propagation. His talk demonstrates how NFT can be written as a damped wave equation, whose behavior predicts transitions in sleep-wake cycles, spatial and temporal spectra of cortical activity, and the impact of neuromodulation. A particular focus will be on how just 4 corticothalamic activity eigenmodes can explain key features of alpha, mu, and tau rhythms.
 
