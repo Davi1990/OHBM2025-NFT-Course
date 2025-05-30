@@ -23,7 +23,7 @@ The course focuses on the simulation of brain dynamics across large-scale networ
 
 ### 📍 Details
 
-- **Date:** June 23, 2025  
+- **Date:** June 24, 2025  
 - **Location:** Brisbane Convention and Exhibition Centre  
 - **Format:** In-person interactive tutorials
 
@@ -33,7 +33,7 @@ The course focuses on the simulation of brain dynamics across large-scale networ
 
 - **Davide Momi** (Stanford University)  
 - **John Griffiths** (Krembil Centre for Neuroinformatics)  
-- **Richa Phogat** (Krembil Centre for Neuroinformatics)  
+- **Richa Phogat** (University of Newcastle)  
 - **Joana Cabral** (University of Minho)
 
 ---
