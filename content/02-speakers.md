@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-# Distinguished Faculty
+# Distinguished Researchers
 
 Our course brings together leading experts in Neural Field Theory, computational neuroscience, and brain modeling from around the world.
 
