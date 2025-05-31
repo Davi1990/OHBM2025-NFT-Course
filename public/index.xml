@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02-Speakers</title>
+      <link>//localhost:1313/03-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/03-program/</guid>
+      <description>&lt;h1 id=&#34;distinguished-faculty&#34;&gt;Distinguished Faculty&lt;/h1&gt;&#xA;&lt;p&gt;Our course brings together leading experts in Neural Field Theory, computational neuroscience, and brain modeling from around the world.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;john-griffiths-phd&#34;&gt;&lt;strong&gt;John Griffiths, PhD&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;University of Toronto &amp;amp; Centre for Addiction and Mental Health&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Talk:&lt;/strong&gt; &lt;em&gt;Historical Overview and Conceptual Foundations of Neural Field Theory&lt;/em&gt;&lt;/p&gt;&#xA;&lt;figure class=&#34;image speaker&#34;&gt;&lt;img src=&#34;images/john_griffiths.jpg&#34;&#xA;    alt=&#34;John Griffiths&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Dr. Griffiths will provide a largely non-technical survey of the key conceptual pillars of neural field theory (NFT), following the chronology of ideas from the 1940s through to 2025 and beyond. His introductory lecture traces NFT&amp;rsquo;s development from its origins with McCulloch &amp;amp; Pitts through its &amp;ldquo;Annus Mirabilis&amp;rdquo; in the early 1970s with contributions from Amari, Wilson-Cowan, and Nunez. The aim is to lay foundations and set the scene for subsequent talks in the workshop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
