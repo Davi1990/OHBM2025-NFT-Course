@@ -10,10 +10,12 @@ weight: 10
   width: 160px;
   margin-left: 20px;
   margin-top: -20px;
+  background-color: transparent;
+  background-blend-mode: multiply;
 }
 </style>
 
-<img src="images/logo.png" alt="NFT Course Logo" class="logo-top" />
+{{< figure class="logo-top" src="images/logo.png" alt="NFT Course Logo" >}}
 
 ## Neural Field Theory & Brain Network Modelling @ OHBM 2025
 
@@ -57,8 +59,10 @@ The course focuses on the simulation of brain dynamics across large-scale networ
 
 #### **OHBM 2023 – Montreal**  
 **Title**: *Whole-brain, Connectome-based Models of Brain Dynamics: From Principles to Applications*  
-<img src="images/ohbm2023.jpg" alt="OHBM 2023 Montreal" style="width:100%; max-width:600px; margin-top:10px;" />
+{{< figure class="image" src="images/ohbm2023.jpg" alt="OHBM 2023 Montreal" >}}
+
 
 #### **OHBM 2024 – Seoul**  
 **Title**: *Connectome-based Models of Whole-brain Dynamics: From Theoretical Principle to Practical Application*  
-<img src="images/ohbm2024.jpg" alt="OHBM 2024 Seoul" style="width:100%; max-width:600px; margin-top:10px;" />
+{{< figure class="image" src="images/ohbm2024.jpg" alt="OHBM 2024 Seoul" >}}
+
