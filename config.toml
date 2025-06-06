@@ -1,4 +1,6 @@
-baseurl = "https://davi1990.github.io/OHBM2025-NFT-Course"
+baseurl = "https://davi1990.github.io/OHBM2025-NFT-Course/"
+canonifyURLs = true
+relativeURLs = false
 title = "OHBM 2025 - Neural Field Theory Course"
 theme = "dimension"
 languagecode = "en-us"

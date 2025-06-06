@@ -4,6 +4,24 @@ weight = 20
 draft = false
 +++
 
+<style>
+figure.logo-top {
+  float: right;
+  width: 176px; /* image + padding */
+  margin-left: 20px;
+  margin-top: -20px;
+  background-color: white;
+  padding: 8px;
+  border-radius: 4px;
+}
+figure.logo-top img {
+  width: 160px;
+  display: block;
+}
+</style>
+
+{{< figure src="images/logo.png" alt="NFT Course Logo" class="logo-top" >}}
+
 
 # Course Program
 
