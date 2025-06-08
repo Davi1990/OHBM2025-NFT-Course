@@ -90,13 +90,15 @@ These foundational papers will help orient you to the theory and applications of
 - Dayan, P., Abbott, L.F. (2001). *Theoretical Neuroscience*. Chapters 5–7, 15  
 
 #### Computational Methods
-- [NFTsim Documentation](https://www.nftsim.org/) – Official simulation framework for Neural Field Theory  
-- [The Virtual Brain Tutorials](https://www.thevirtualbrain.org/tvb/zwei) – Hands-on guides for brain network modeling  
+- [OHBM 2023 Course](https://griffithslab.github.io/OHBM-whole-brain-modelling-course/) - Our previous 2023 course
+- [OHBM 2024 Course](https://griffithslab.github.io/OHBM2024-educational-course/) - Our previous 2024 course
+- [NFTsim Documentation](hhttps://github.com/BrainDynamicsUSYD/nftsim) – Official simulation framework for Neural Field Theory  
+- [The Virtual Brain Tutorials](https://training.incf.org/lesson/virtual-brain-tutorial-0) – Hands-on guides for brain network modeling  
 - [MNE-Python Tutorials](https://mne.tools/stable/auto_tutorials/index.html) – Processing EEG/MEG data with Python  
 
 ---
 
-If you have questions about preparation or access, please contact the organizers via the [Contact](../05-contact/) page.
+If you have questions about preparation or access, please contact the organizers via the [Contact](../06-contact/) page.
 
 
 

@@ -44,7 +44,7 @@ figure.logo-top img {
 
 | Time | Session | Participants |
 |------|---------|--------------|
-| **11:10-11:30** | 💬 **Panel Discussion** | **Chair:** Davide Momi<br>**Panelists:** John Griffiths, Michael Breakspear, Viktor Jirsa |
+| **11:10-11:30** | 💬 **Panel Discussion** | **Chair:** Davide Momi<br> **Panelists:** John Griffiths, Michael Breakspear, Viktor Jirsa |
 | **11:30-12:15** | 💻 **Hands-on Session 1**<br>*Fundamental NFT Implementations* | **Davide Momi** |
 
 ### **12:15-13:00** 🍽️ **Lunch Break**
@@ -63,7 +63,7 @@ figure.logo-top img {
 
 | Time | Session | Participants |
 |------|---------|--------------|
-| **15:10-15:30** | 💬 **Panel Discussion** | **Chair:** John Griffiths<br>**Panelists:** Peter Robinson, Huifang Wang, Richa Phogat |
+| **15:10-15:30** | 💬 **Panel Discussion** | **Chair:** John Griffiths<br> **Panelists:** Peter Robinson, Huifang Wang, Richa Phogat |
 | **15:30-16:10** | 💻 **Hands-on Session 2**<br>*Advanced Applications & Brain Rhythms* | **Davide Momi** |
 | **16:10-16:20** | 🎊 **Conclusions & Next Steps** | **All Faculty** |
 

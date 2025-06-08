@@ -28,36 +28,6 @@ Our course brings together leading experts in Neural Field Theory, computational
 
 ---
 
-## **Davide Momi, PhD**
-*Stanford University*  
-**Talk:** *Hands-on Neural Field Theory: From Theory to Implementation*
-
-{{< figure class="image speaker" src="images/davide_momi.jpg" alt="Davide Momi" >}}
-
-Dr. Momi is a computational neuroscientist at Stanford University, specializing in brain stimulation, neural field theory, and hands-on education in computational neuroscience. Building on the success of previous OHBM educational courses, he leads comprehensive hands-on sessions that bridge theoretical concepts with practical applications using interactive Python notebooks. His expertise includes developing educational frameworks that make complex computational neuroscience concepts accessible to researchers from diverse backgrounds, with a strong commitment to open science and reproducible research practices.
-
----
-
-## **Richa Phogat, PhD**
-*University of Newcastle*  
-**Talk:** *Cortico-Hippocampal Interactions: Eigenmodes and Neural Field Modeling*
-
-{{< figure class="image speaker" src="images/richa_phogat.jpg" alt="Richa Phogat" >}}
-
-Dr. Phogat is a Computational Neuroscience Fellow at the University of Newcastle, NSW. Her current research focuses on developing a physically principled framework of cortico-hippocampal interactions. This framework helps understand how dynamic coupling and mode mixing drive healthy brain rhythms and how their disruption leads to more pathological brain activity. Her work combines theoretical neural field modeling with practical implementations to advance our understanding of complex brain dynamics.
-
----
-
-## **John Griffiths, PhD**
-*University of Toronto & Centre for Addiction and Mental Health*  
-**Talk:** *Historical Overview and Conceptual Foundations of Neural Field Theory*
-
-{{< figure class="image speaker" src="images/john_griffiths.jpg" alt="John Griffiths" >}}
-
-Dr. Griffiths is an esteemed cognitive and computational neuroscientist and director of GriffLab. He has held various prestigious research positions, including a post-doctoral fellowship at the University of Sydney School of Physics, where he collaborated with Professor Peter Robinson. He subsequently moved to Toronto, Canada, conducting research at the Rotman Research Institute with Dr. Randy McIntosh and the Krembil Research Institute with Dr. Jeremie Lefebvre. In January 2019, Dr. Griffiths joined the Krembil Centre for Neuroinformatics at CAMH and the University of Toronto as a Scientist and Assistant Professor. With strong technical expertise in multimodal neuroimaging data analysis, scientific computing, and numerical simulations of large-scale brain dynamics, Dr. Griffiths is an active contributor to the scientific, software development, and educational endeavors of the Virtual Brain Project.
-
----
-
 ## **Peter Robinson, PhD**
 *University of Sydney*  
 **Talk:** *Mathematical Foundations and Corticothalamic Neural Field Theory*
@@ -65,6 +35,16 @@ Dr. Griffiths is an esteemed cognitive and computational neuroscientist and dire
 {{< figure class="image speaker" src="images/peter_robinson.jpg" alt="Peter Robinson" >}}
 
 Dr. Robinson is a foundational contributor to neural field theory, particularly in corticothalamic system modeling and brain activity eigenmodes. His work encompasses the mathematical derivation of neural field equations from physiological principles, development of the NFTsim simulation package, and groundbreaking research on brain rhythms including alpha, mu, and tau oscillations. His contributions include demonstrating how just four corticothalamic eigenmodes can explain key features of cortical rhythms, and establishing connections between brain geometry, connectivity, and dynamics. Professor Robinson is based at the University of Sydney's School of Physics and Center for Integrative Brain Function, where his extensive research spans over two decades focusing on continuum approaches to brain modeling, corticothalamic dynamics, and the mathematical foundations underlying brain oscillations and connectivity.
+
+---
+
+## **Michael Breakspear, PhD**
+*University of Newcastle*  
+**Talk:** *Neural Field Theory: Mathematical Foundations and Cortical Rhythms*
+
+{{< figure class="image speaker" src="images/michael_breakspear.jpg" alt="Michael Breakspear" >}}
+
+Dr. Breakspear is a distinguished researcher and group leader of the Systems Neuroscience Group at the University of Newcastle. He holds a Doctor of Philosophy degree from the University of Sydney, where he also obtained a Bachelor of Science (Medical) (Honours), a Bachelor of Arts, and a Bachelor of Medicine and Bachelor of Surgery. His expertise spans computational neuroscience and translational neuroimaging. In computational neuroscience, his contributions focus on dynamic models of large-scale brain activity, toolbox development, and detection of nonlinear dynamics in empirical data. His translational imaging work encompasses healthy aging, dementia, bipolar disorder, and schizophrenia, with particular emphasis on connectomics and risk prediction. Alongside his research career, Michael has pursued training in psychiatry, combining clinical sessions in adult psychiatry with research on recovery-focused treatment of mood disorders, psychosis, and addiction. His multifaceted expertise bridges theoretical models and real-world applications, advancing understanding of brain function while improving mental health outcomes.
 
 ---
 
@@ -78,13 +58,33 @@ Dr. Jirsa brings a unique perspective combining theoretical physics and computat
 
 ---
 
-## **Michael Breakspear, PhD**
+## **Richa Phogat, PhD**
 *University of Newcastle*  
-**Talk:** *Neural Field Theory: Mathematical Foundations and Cortical Rhythms*
+**Talk:** *Cortico-Hippocampal Interactions: Eigenmodes and Neural Field Modeling*
 
-{{< figure class="image speaker" src="images/michael_breakspear.jpg" alt="Michael Breakspear" >}}
+{{< figure class="image speaker" src="images/richa_phogat.jpg" alt="Richa Phogat" >}}
 
-Dr. Breakspear is a distinguished researcher and group leader of the Systems Neuroscience Group at the University of Newcastle. He holds a Doctor of Philosophy degree from the University of Sydney, where he also obtained a Bachelor of Science (Medical) (Honours), a Bachelor of Arts, and a Bachelor of Medicine and Bachelor of Surgery. His expertise spans computational neuroscience and translational neuroimaging. In computational neuroscience, his contributions focus on dynamic models of large-scale brain activity, toolbox development, and detection of nonlinear dynamics in empirical data. His translational imaging work encompasses healthy aging, dementia, bipolar disorder, and schizophrenia, with particular emphasis on connectomics and risk prediction. Alongside his research career, Michael has pursued training in psychiatry, combining clinical sessions in adult psychiatry with research on recovery-focused treatment of mood disorders, psychosis, and addiction. His multifaceted expertise bridges theoretical models and real-world applications, advancing understanding of brain function while improving mental health outcomes.
+Dr. Phogat is a Computational Neuroscience Fellow at the University of Newcastle, NSW. Her current research focuses on developing a physically principled framework of cortico-hippocampal interactions. This framework helps understand how dynamic coupling and mode mixing drive healthy brain rhythms and how their disruption leads to more pathological brain activity. Her work combines theoretical neural field modeling with practical implementations to advance our understanding of complex brain dynamics.
+
+---
+
+## **Davide Momi, PhD**
+*Stanford University*  
+**Talk:** *Hands-on Neural Field Theory: From Theory to Implementation*
+
+{{< figure class="image speaker" src="images/davide_momi.jpg" alt="Davide Momi" >}}
+
+Dr. Momi is a computational neuroscientist at Stanford University, specializing in brain stimulation, neural field theory, and hands-on education in computational neuroscience. Building on the success of previous OHBM educational courses, he leads comprehensive hands-on sessions that bridge theoretical concepts with practical applications using interactive Python notebooks. His expertise includes developing educational frameworks that make complex computational neuroscience concepts accessible to researchers from diverse backgrounds, with a strong commitment to open science and reproducible research practices.
+
+---
+
+## **John Griffiths, PhD**
+*University of Toronto & Centre for Addiction and Mental Health*  
+**Talk:** *Historical Overview and Conceptual Foundations of Neural Field Theory*
+
+{{< figure class="image speaker" src="images/john_griffiths.jpg" alt="John Griffiths" >}}
+
+Dr. Griffiths is an esteemed cognitive and computational neuroscientist and director of GriffLab. He has held various prestigious research positions, including a post-doctoral fellowship at the University of Sydney School of Physics, where he collaborated with Professor Peter Robinson. He subsequently moved to Toronto, Canada, conducting research at the Rotman Research Institute with Dr. Randy McIntosh and the Krembil Research Institute with Dr. Jeremie Lefebvre. In January 2019, Dr. Griffiths joined the Krembil Centre for Neuroinformatics at CAMH and the University of Toronto as a Scientist and Assistant Professor. With strong technical expertise in multimodal neuroimaging data analysis, scientific computing, and numerical simulations of large-scale brain dynamics, Dr. Griffiths is an active contributor to the scientific, software development, and educational endeavors of the Virtual Brain Project.
 
 ---
 
