@@ -1,5 +1,5 @@
 +++
-title = "04-Prerequisites & Preparation"
+title = "04-Prerequisites"
 weight = 20
 draft = false
 +++
