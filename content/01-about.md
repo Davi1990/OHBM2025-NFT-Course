@@ -51,7 +51,7 @@ The course focuses on the simulation of brain dynamics across large-scale networ
 
 ---
 
-[📂 Access course materials here →](https://drive.google.com/drive/folders/1Yv2hLPHThRoyMiMpusxuEofwhAlTVz-w?usp=sharingsasadasads)
+[📂 Access course materials here →](xxxxxxx)
 
 ---
 
