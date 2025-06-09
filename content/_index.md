@@ -8,5 +8,5 @@ title_lines:
 description: |
   ***A hands-on course on Neural Field Theory and brain network modelling at OHBM 2025.***
 
-  **[Course Details & Materials Here](https://drive.google.com/drive/folders/1Yv2hLPHThRoyMiMpusxuEofwhAlTVz-w?usp=sharing)**
+  **[Course Details & Materials Here](https://drive.google.com/drive/folders/1Yv2hLPHThRoyMiMpusxuEofwhAlTVz-w?usp=sharinggsssa)**
 ---
